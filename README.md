@@ -10,4 +10,4 @@ Training and Testing
 
 RestAPI call for validation
 
-![](Training and accouracy.gif)
+![](Training and accuracy.gif)
