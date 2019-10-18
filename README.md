@@ -6,8 +6,11 @@ Train in Custom Vision with RestAPI call. Reference to Prediction in the Python 
 
 Training and Testing
 
-![](RestAPIcall.gif)
+![](Training.gif)
 
 RestAPI call for validation
 
-![](Training and accuracy.gif)
+![](RestAPIcall.gif)
+
+
+
